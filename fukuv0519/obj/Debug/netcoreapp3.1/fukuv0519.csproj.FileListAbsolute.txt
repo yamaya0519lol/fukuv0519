@@ -1,0 +1,16 @@
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.exe
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.deps.json
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.runtimeconfig.json
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.runtimeconfig.dev.json
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.dll
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\bin\Debug\netcoreapp3.1\fukuv0519.pdb
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.csproj.AssemblyReference.cache
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.Form1.resources
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.csproj.GenerateResource.cache
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.AssemblyInfoInputs.cache
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.AssemblyInfo.cs
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.csproj.CoreCompileInputs.cache
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.dll
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.pdb
+C:\Users\gp20\Documents\yamaya18gp\fukuv0519\fukuv0519\obj\Debug\netcoreapp3.1\fukuv0519.genruntimeconfig.cache
